@@ -1,0 +1,15 @@
+[
+    {"id": 1, "nom": "Marteau divin 3x3", "disponible": true, "quantite": 2},
+    {"id": 2, "nom": "Pioche généreuse 1x1", "disponible": true, "quantite": 3},
+    {"id": 3, "nom": "Couperet Légendaire", "disponible": false, "quantite": 0},
+    {"id": 4, "nom": "Houe Légendaire", "disponible": true, "quantite": 1},
+    {"id": 5, "nom": "Arc estival", "disponible": true, "quantite": 2},
+    {"id": 6, "nom": "Canne éloquente", "disponible": false, "quantite": 0},
+    {"id": 7, "nom": "Lames divine", "disponible": true, "quantite": 2},
+    {"id": 8, "nom": "Farm minerai 3x3", "disponible": true, "quantite": 1},
+    {"id": 9, "nom": "Farm Minerai 1x1", "disponible": true, "quantite": 2},
+    {"id": 10, "nom": "Farm minerai 1x1 avec piston (semi-AFK)", "disponible": false, "quantite": 0},
+    {"id": 11, "nom": "Farm mob", "disponible": true, "quantite": 1},
+    {"id": 12, "nom": "Farm cacao", "disponible": true, "quantite": 3},
+    {"id": 13, "nom": "Farm champs", "disponible": true, "quantite": 1}
+]
